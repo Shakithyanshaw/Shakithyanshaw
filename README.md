@@ -49,7 +49,7 @@
 </p>
 
 <h4>Tools & More </h4>
-<p >
+<p>
   <img src="https://skillicons.dev/icons?i=jwt,figma,ps,aws,azure,git,github,jira" alt="tools" />
 </p>
 
@@ -122,10 +122,18 @@
 
 ---
 
-<h3 align="center">✍️ My Random Dev Quote: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h3 align="center">
+  ✍️ My Random Dev Quote: 
+  <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60" alt="Writing gif" />
+</h3>
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?font=Redressed?quoteCategory=success&theme=algolia&animation=grow_out_in)
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-quotes-bay.vercel.app/quote?font=Redressed&quoteCategory=success&theme=algolia&animation=grow_out_in" 
+    alt="Random Dev Quote" 
+  />
+</p>
+
 
 
 
