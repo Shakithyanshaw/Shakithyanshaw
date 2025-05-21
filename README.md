@@ -97,13 +97,15 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo:
+
 <p align="center">
-![](https://github-contributor-stats.vercel.app/api?username=Shakithyanshaw&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <img src="https://github-contributor-stats.vercel.app/api?username=Shakithyanshaw&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Shakithyanshaw&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
+
 
 
 <p align="center">
