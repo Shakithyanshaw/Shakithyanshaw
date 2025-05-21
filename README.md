@@ -18,38 +18,38 @@
 
 🧑‍💻 I’m currently working on: A service availability feature for a project, which checks service availability on a specific date.<br>👯‍♂️ I’m looking to collaborate on: Full-stack development projects, especially ones involving React and Node.js.<br>🤝 I’m looking for help with: Optimizing backend performance and improving code scalability.<br>🌱 I’m currently learning: Django Rest Framework and Docker for backend development.<br>💬 Ask me about: React, Node.js, or setting up a RESTful API.<br>⚡ Fun fact: I once built a weather app using React Native in just a month!
 
-<h3 align="center">🌐 Socials: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h3>🌐 Socials: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeyakumar-shakithyan-b25789213/) 
 
 ---
 
-<h3 align="center">
+<h3 >
   💻 Tech Stack <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="30">
 </h3>
 
-<h4 align="center">Languages </h4>
-<p align="center">
+<h4 >Languages </h4>
+<p >
   <img src="https://skillicons.dev/icons?i=cpp,cs,c,java,js,ts,python" alt="languages" />
 </p>
 
-<h4 align="center">Frontend </h4>
-<p align="center">
+<h4 >Frontend </h4>
+<p >
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,reactnative" alt="frontend" />
 </p>
 
-<h4 align="center">Backend </h4>
-<p align="center">
+<h4 >Backend </h4>
+<p >
   <img src="https://skillicons.dev/icons?i=nodejs,express" alt="backend" />
 </p>
 
-<h4 align="center">Database </h4>
-<p align="center">
+<h4 >Database </h4>
+<p >
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="databases" />
 </p>
 
-<h4 align="center">Tools & More </h4>
-<p align="center">
+<h4>Tools & More </h4>
+<p >
   <img src="https://skillicons.dev/icons?i=jwt,figma,ps,aws,azure,git,github,jira" alt="tools" />
 </p>
 
@@ -72,27 +72,26 @@
 
 
 <!--my gitHub stats-->
-<h3 align="center">📊 My GitHub Stats: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h3 align="center">
+  📊 My GitHub Stats: 
+  <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60" alt="Stats gif" />
+</h3>
+
 <p align="center">
-<table align="center">
-  <tr border="none">
-  <td width="50%" align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Shakithyanshaw&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+        <br />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakithyanshaw&theme=algolia" alt="GitHub Streak" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakithyanshaw&layout=donut&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</p>
 
-
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Shakithyanshaw&show_icons=true&theme=tokyonight" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shakithyanshaw&theme=algolia" alt="Shakithyanshaw" /> 
-  </td>
-  <td width="50%" align="center">
-
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakithyanshaw&layout=donut&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  
-  </td>
-  </tr>
-</table>
 
 <!--my repository-->
 <h3 align="center">🚀 My Repository: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
@@ -125,7 +124,9 @@
 
 <h3 align="center">✍️ My Random Dev Quote: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?font=Redressed?quoteCategory=success&theme=algolia&animation=grow_out_in)
+</div>
+
 
 
 <h3 align="center">🔝 Top Contributed Repo:<img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
