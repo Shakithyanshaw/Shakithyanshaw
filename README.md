@@ -9,94 +9,193 @@
 
 <!-- Intro Heading -->
 <h1 align="center">
-  Hi 👋, I'm Jeyakumar Shakithyan 🦁
+  Hi 👋, I'm Jeyakumar Shakithyan <img src="[https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)" height="7%" width="7%"/>
 </h1>
 
 
+<h3 align="center">💫 About Me: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 
-# 💫 About Me:
 🧑‍💻 I’m currently working on: A service availability feature for a project, which checks service availability on a specific date.<br>👯‍♂️ I’m looking to collaborate on: Full-stack development projects, especially ones involving React and Node.js.<br>🤝 I’m looking for help with: Optimizing backend performance and improving code scalability.<br>🌱 I’m currently learning: Django Rest Framework and Docker for backend development.<br>💬 Ask me about: React, Node.js, or setting up a RESTful API.<br>⚡ Fun fact: I once built a weather app using React Native in just a month!
 
+<h3 align="center">🌐 Socials: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeyakumar-shakithyan-b25789213/) 
 
 ---
 
-# 💻 Tech Stack:
+<h3 align="center">💻 My Tech Stack: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 
 ### Programming Languages:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+<a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Cplusplus.svg" alt="C++" width="50" height="50" />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSharp-Dark.svg" alt="C#" width="50" height="50" />
+</a>
+<a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50" />
+</a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="50" height="50" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript-Dark.svg" alt="JavaScript" width="50" height="50" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript-Dark.svg" alt="TypeScript" width="50" height="50" />
+</a>
+<a href="https://python.org" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50" />
+</a>
 
 ### Front-End Development:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML5.svg" alt="HTML5" width="50" height="50" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS3.svg" alt="CSS3" width="50" height="50" />
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="50" height="50" />
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Nextjs-Light.svg" alt="Next.js" width="50" height="50" />
+</a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ReactNative-Dark.svg" alt="React Native" width="50" height="50" />
+</a>
 
 ### Back-End Development:
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Nodejs-Dark.svg" alt="Node.js" width="50" height="50" />
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Express-Dark.svg" alt="Express.js" width="50" height="50" />
+</a>
 
 ### Databases:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="50" height="50" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB-Dark.svg" alt="MongoDB" width="50" height="50" />
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="50" height="50" />
+</a>
 
 ### Frameworks & Libraries:
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+<a href="https://jwt.io/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JWT-Dark.svg" alt="JWT" width="50" height="50" />
+</a>
+<a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ReactRouter-Dark.svg" alt="React Router" width="50" height="50" />
+</a>
+<a href="https://react-query.tanstack.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ReactQuery-Dark.svg" alt="React Query" width="50" height="50" />
+</a>
 
 ### Designing Tools:
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AdobePhotoshop-Dark.svg" alt="Adobe Photoshop" width="50" height="50" />
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="50" height="50" />
+</a>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Canva-Dark.svg" alt="Canva" width="50" height="50" />
+</a>
 
 ### Cloud and Hosting:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Azure-Dark.svg" alt="Azure" width="50" height="50" />
+</a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="50" height="50" />
+</a>
 
 ### Office Tools:
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Jira-Dark.svg" alt="Jira" width="50" height="50" />
+</a>
 
----
 
-# 📊 GitHub Stats:
+<!--currently in use-->
+<h3 align="center">🍃 Currently in use: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 
+<div align="center">
+
+| Title                          | Icon                                                                                                             |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Programming Languages          | <img src="https://skillicons.dev/icons?i=java,python,javascript"/>                                                       |
+| Scripting Languages            | <img src="https://skillicons.dev/icons?i=html,css"/>                                                             |
+| Tools                          | <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio"/>                                            |
+| Databases                      | <img src="https://skillicons.dev/icons?i=mysql"/>                                                                |
+| Version Control                | <img src="https://skillicons.dev/icons?i=github,githubactions"/>                                                 |
+
+</div>
+
+
+
+<!--my gitHub stats-->
+<h3 align="center">📊 My GitHub Stats: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shakithyanshaw&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakithyanshaw&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakithyanshaw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+<table align="center">
+  <tr border="none">
+  <td width="50%" align="center">
+
+
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Shakithyanshaw&show_icons=true&theme=tokyonight" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shakithyanshaw&theme=algolia" alt="inkithai" /> 
+  </td>
+  <td width="50%" align="center">
+
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakithyanshaw&layout=donut&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  
+  </td>
+  </tr>
+</table>
+
+<!--my repository-->
+<h3 align="center">🚀 My Repository: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Shakithyanshaw&theme=github-dark-blue&hide_border=true&border_radius=0&date_format=%5BY.%5Dn.j&card_width=409&hide_current_streak=true&hide_longest_streak=true" align="center" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Shakithyanshaw&theme=github-dark-blue&hide_border=true&border_radius=0&locale=en&date_format=%5BY.%5Dn.j&card_width=338&hide_total_contributions=true&hide_current_streak=true" align="center" />
+    </td>
+  </tr>
+</table>
 
 
 
-## 🔥 My Top Contribution Graph:
+
+<h3 align="center">🔥 My Top Contribution Graph: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakithyanshaw&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 
-## 🏆 GitHub Trophies:
+<h3 align="center">🏆 GitHub Trophies: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+
 ![](https://github-profile-trophy.vercel.app/?username=Shakithyanshaw&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-### ✍️ Dev Quote:
+<h3 align="center">✍️ My Random Dev Quote: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo:
+
+<h3 align="center">🔝 Top Contributed Repo:<img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Shakithyanshaw&limit=5&theme=dark&combine_all_yearly_contributions=true" />
