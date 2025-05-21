@@ -12,9 +12,7 @@
   Hi 👋, I'm Jeyakumar Shakithyan 🦁
 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jeykumar-shakithyan/assets/main/gifs/rainbow-line.gif" width="300" height="4" alt="animated line"/>
-</p>
+
 
 # 💫 About Me:
 🧑‍💻 I’m currently working on: A service availability feature for a project, which checks service availability on a specific date.<br>👯‍♂️ I’m looking to collaborate on: Full-stack development projects, especially ones involving React and Node.js.<br>🤝 I’m looking for help with: Optimizing backend performance and improving code scalability.<br>🌱 I’m currently learning: Django Rest Framework and Docker for backend development.<br>💬 Ask me about: React, Node.js, or setting up a RESTful API.<br>⚡ Fun fact: I once built a weather app using React Native in just a month!
@@ -76,6 +74,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shakithyanshaw&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakithyanshaw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+## 🔥 My Top Contribution Graph:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inkithai&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Shakithyanshaw&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -90,5 +96,10 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Shakithyanshaw&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" alt="Waving Gradient SVG"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
