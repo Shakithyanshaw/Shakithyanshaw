@@ -12,8 +12,9 @@
   Hi 👋, I'm Jeyakumar Shakithyan 🦁
 </h1>
 
-<hr/>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jeykumar-shakithyan/assets/main/gifs/rainbow-line.gif" width="300" height="4" alt="animated line"/>
+</p>
 
 # 💫 About Me:
 🧑‍💻 I’m currently working on: A service availability feature for a project, which checks service availability on a specific date.<br>👯‍♂️ I’m looking to collaborate on: Full-stack development projects, especially ones involving React and Node.js.<br>🤝 I’m looking for help with: Optimizing backend performance and improving code scalability.<br>🌱 I’m currently learning: Django Rest Framework and Docker for backend development.<br>💬 Ask me about: React, Node.js, or setting up a RESTful API.<br>⚡ Fun fact: I once built a weather app using React Native in just a month!
