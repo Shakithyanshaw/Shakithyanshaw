@@ -1,5 +1,6 @@
 <!-- Wave Background -->
-<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/wave.svg" alt="wave background" width="100%" />
+<img src="https://camo.githubusercontent.com/975e83772fafda9aa0dba3317481d11d040104e52ded9f212839c178d2d36e8b/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d686561646572" alt="wave background" width="100%" />
+
 
 <!-- Centered GIF -->
 <p align="center">
