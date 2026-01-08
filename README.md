@@ -95,19 +95,13 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Shakithyanshaw&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shakithyanshaw&show_icons=true&theme=tokyonight"/>
   <br/>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Shakithyanshaw&theme=algolia&hide_border=true"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakithyanshaw&theme=algolia"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakithyanshaw&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakithyanshaw&layout=donut&theme=tokyonight"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
@@ -125,9 +119,7 @@
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
- <img 
-  src="https://github-profile-trophy.vercel.app/?username=Shakithyanshaw&theme=onedark&no-frame=true&column=7" 
-/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shakithyanshaw&theme=radical&margin-w=8"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
