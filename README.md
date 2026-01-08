@@ -1,149 +1,151 @@
+<!-- =================== HEADER BACKGROUND =================== -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Jeyakumar%20Shakithyan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js&descAlignY=60" 
+  width="100%"
+/>
 
-<!-- Centered GIF -->
+<!-- =================== GIF =================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="hacker gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="200"/>
 </p>
 
-<!-- Intro Heading -->
+<!-- =================== INTRO =================== -->
 <h1 align="center">
-  Hi 👋, I'm Jeyakumar Shakithyan <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="7%" width="7%"/>
+  Hi 👋, I'm Jeyakumar Shakithyan 
+  <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="40"/>
 </h1>
 
-
-<h3 align="center">💫 About Me: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
-
-🧑‍💻 I’m currently working on: A service availability feature for a project, which checks service availability on a specific date.<br>👯‍♂️ I’m looking to collaborate on: Full-stack development projects, especially ones involving React and Node.js.<br>🤝 I’m looking for help with: Optimizing backend performance and improving code scalability.<br>🌱 I’m currently learning: Django Rest Framework and Docker for backend development.<br>💬 Ask me about: React, Node.js, or setting up a RESTful API.<br>⚡ Fun fact: I once built a weather app using React Native in just a month!
-
-<h3>🌐 Socials: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeyakumar-shakithyan-b25789213/) 
-
----
-
-<h3 >
-  💻 Tech Stack <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="30">
-</h3>
-
-<h4 >Languages </h4>
-<p >
-  <img src="https://skillicons.dev/icons?i=cpp,cs,c,java,js,ts,python" alt="languages" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💫+Full+Stack+Developer;React+%7C+Node.js+%7C+Docker;Always+Learning+New+Things" />
 </p>
 
-<h4 >Frontend </h4>
-<p >
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,reactnative" alt="frontend" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+
+<!-- =================== ABOUT ME =================== -->
+<h3 align="center">💫 About Me</h3>
+
+🧑‍💻 **Currently working on:** Service availability feature (date-based service check)  
+👯‍♂️ **Looking to collaborate on:** Full-stack (React + Node.js) projects  
+🤝 **Need help with:** Backend performance & scalability  
+🌱 **Currently learning:** Django REST Framework & Docker  
+💬 **Ask me about:** React, Node.js, REST APIs  
+⚡ **Fun fact:** Built a React Native weather app in just 1 month!
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+
+<!-- =================== SOCIALS =================== -->
+<h3 align="center">🌐 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeyakumar-shakithyan-b25789213/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
-<h4 >Backend </h4>
-<p >
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="backend" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-<h4 >Database </h4>
-<p >
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="databases" />
-</p>
+<!-- =================== TECH STACK =================== -->
+<h3 align="center">💻 Tech Stack</h3>
 
-<h4>Tools & More </h4>
+<h4>Languages</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=jwt,figma,ps,aws,azure,git,github,jira" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,c,java,js,ts,python"/>
 </p>
 
+<h4>Frontend</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,reactnative"/>
+</p>
 
-<!--currently in use-->
-<h3 align="center">🍃 Currently in use: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h4>Backend</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+<h4>Databases</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+</p>
+
+<h4>Tools & Platforms</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=jwt,figma,ps,aws,azure,git,github,jira"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+
+<!-- =================== CURRENTLY USING =================== -->
+<h3 align="center">🍃 Currently In Use</h3>
 
 <div align="center">
 
-| Title                          | Icon                                                                                                             |
-|--------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Programming Languages          | <img src="https://skillicons.dev/icons?i=java,python,javascript"/>                                                       |
-| Scripting Languages            | <img src="https://skillicons.dev/icons?i=html,css"/>                                                             |
-| Tools                          | <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio"/>                                            |
-| Databases                      | <img src="https://skillicons.dev/icons?i=mysql"/>                                                                |
-| Version Control                | <img src="https://skillicons.dev/icons?i=github,githubactions"/>                                                 |
+| Category | Tools |
+|--------|------|
+| Languages | <img src="https://skillicons.dev/icons?i=java,python,javascript"/> |
+| Scripting | <img src="https://skillicons.dev/icons?i=html,css"/> |
+| Tools | <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio"/> |
+| Databases | <img src="https://skillicons.dev/icons?i=mysql"/> |
+| Version Control | <img src="https://skillicons.dev/icons?i=github,githubactions"/> |
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-
-<!--my gitHub stats-->
-<h3 align="center">
-  📊 My GitHub Stats: 
-  <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60" alt="Stats gif" />
-</h3>
+<!-- =================== GITHUB STATS =================== -->
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Shakithyanshaw&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-        <br />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakithyanshaw&theme=algolia" alt="GitHub Streak" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakithyanshaw&layout=donut&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shakithyanshaw&show_icons=true&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakithyanshaw&theme=algolia"/>
 </p>
-
-
-<!--my repository-->
-<h3 align="center">🚀 My Repository: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Shakithyanshaw&theme=github-dark-blue&hide_border=true&border_radius=0&date_format=%5BY.%5Dn.j&card_width=409&hide_current_streak=true&hide_longest_streak=true" align="center" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Shakithyanshaw&theme=github-dark-blue&hide_border=true&border_radius=0&locale=en&date_format=%5BY.%5Dn.j&card_width=338&hide_total_contributions=true&hide_current_streak=true" align="center" />
-    </td>
-  </tr>
-</table>
-
-
-
-
-<h3 align="center">🔥 My Top Contribution Graph: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakithyanshaw&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakithyanshaw&layout=donut&theme=tokyonight"/>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-<h3 align="center">🏆 GitHub Trophies: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
-
-![](https://github-profile-trophy.vercel.app/?username=Shakithyanshaw&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-<h3 align="center">
-  ✍️ My Random Dev Quote: 
-  <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60" alt="Writing gif" />
-</h3>
+<!-- =================== CONTRIBUTION GRAPH =================== -->
+<h3 align="center">🔥 Contribution Graph</h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-quotes-bay.vercel.app/quote?font=Redressed&quoteCategory=success&theme=algolia&animation=grow_out_in" 
-    alt="Random Dev Quote" 
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakithyanshaw&theme=react-dark&area=true&hide_border=true"/>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-
-
-<h3 align="center">🔝 Top Contributed Repo:<img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
-
+<!-- =================== TROPHIES =================== -->
+<h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Shakithyanshaw&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shakithyanshaw&theme=radical&margin-w=8"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-[![](https://visitcount.itsvg.in/api?id=Shakithyanshaw&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- =================== DEV QUOTE =================== -->
+<h3 align="center">✍️ Random Dev Quote</h3>
 
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?font=Redressed&quoteCategory=success&theme=algolia&animation=grow_out_in"/>
+</p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- =================== TOP CONTRIBUTED =================== -->
+<h3 align="center">🔝 Top Contributed Repos</h3>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Shakithyanshaw&limit=5&theme=dark"/>
+</p>
+
+<!-- =================== VISITOR COUNT =================== -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Shakithyanshaw&color=6"/>
+</p>
+
+<!-- =================== FOOTER =================== -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=160&section=footer"
+/>
