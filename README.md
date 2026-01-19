@@ -1,4 +1,8 @@
-
+<!-- =================== HEADER BACKGROUND =================== -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Jeyakumar%20Shakithyan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js&descAlignY=60" 
+  width="100%"
+/>
 
 <!-- =================== GIF =================== -->
 <p align="center">
