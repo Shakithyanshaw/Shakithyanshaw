@@ -95,13 +95,14 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shakithyanshaw&show_icons=true&theme=tokyonight"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=Shakithyanshaw&show_icons=true&theme=tokyonight"/>
+
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakithyanshaw&theme=algolia"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakithyanshaw&layout=donut&theme=tokyonight"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakithyanshaw&layout=compact&theme=tokyonight"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
