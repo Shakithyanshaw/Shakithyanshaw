@@ -142,7 +142,7 @@
 
 <!-- =================== VISITOR COUNT =================== -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Shakithyanshaw&color=6"/>
+  <img src="https://komarev.com/ghpvc/?username=Shakithyanshaw&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <!-- =================== FOOTER =================== -->
