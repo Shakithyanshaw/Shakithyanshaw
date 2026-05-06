@@ -16,7 +16,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💫+Full+Stack+Developer;React+%7C+Node.js+%7C+Docker;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Docker;Always+Learning+New+Things" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
