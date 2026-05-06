@@ -95,15 +95,14 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Shakithyanshaw&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shakithyanshaw&show_icons=true&theme=tokyonight"/>
 
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakithyanshaw&theme=algolia"/>
+<img src="https://streak-stats.demolab.com?user=Shakithyanshaw&theme=tokyonight"/>
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakithyanshaw&layout=compact&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shakithyanshaw&layout=compact&theme=tokyonight"/></p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
@@ -135,10 +134,10 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 <!-- =================== TOP CONTRIBUTED =================== -->
-<h3 align="center">🔝 Top Contributed Repos</h3>
+<h3 align="center">🔝 Top Contributions</h3>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Shakithyanshaw&limit=5&theme=dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakithyanshaw&theme=tokyonight" />
 </p>
 
 <!-- =================== VISITOR COUNT =================== -->
