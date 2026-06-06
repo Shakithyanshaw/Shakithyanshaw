@@ -116,10 +116,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 <!-- =================== TROPHIES =================== -->
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="center">🏆 GitHub Achievements</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shakithyanshaw&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shakithyanshaw&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shakithyanshaw&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
