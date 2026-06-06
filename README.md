@@ -148,5 +148,5 @@
 
 <!-- =================== FOOTER =================== -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=footer&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=30"
 />
