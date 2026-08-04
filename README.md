@@ -22,7 +22,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 <!-- =================== ABOUT ME =================== -->
-<h3 align="center">💫 About Me</h3>
+<h3 align="center">🚀 About the Human Behind the Commits</h3>
 
 🧑‍💻 **Currently working on:** Service availability feature (date-based service check)  
 👯‍♂️ **Looking to collaborate on:** Full-stack (React + Node.js) projects  
