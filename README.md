@@ -124,8 +124,9 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Shakithyanshaw&theme=react-dark&area=true&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakithyanshaw&theme=github_dark"
     alt="GitHub Contribution Graph"
+    width="100%"
   />
 </p>
 
