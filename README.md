@@ -98,14 +98,24 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shakithyanshaw&show_icons=true&theme=tokyonight"/>
-
-  <br/>
-<img src="https://streak-stats.demolab.com?user=Shakithyanshaw&theme=tokyonight"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Shakithyanshaw&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=Shakithyanshaw&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shakithyanshaw&layout=compact&theme=tokyonight"/></p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakithyanshaw&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
@@ -113,7 +123,10 @@
 <h3 align="center">🔥 Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakithyanshaw&theme=react-dark&area=true&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shakithyanshaw&theme=react-dark&area=true&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
