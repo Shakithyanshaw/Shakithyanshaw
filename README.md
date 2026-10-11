@@ -119,13 +119,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-<!-- =================== CONTRIBUTION GRAPH =================== -->
-<h3 align="center">🔥 Contribution Graph</h3>
+
+<!-- =================== DAILY CONTRIBUTION GRAPH =================== -->
+<h3 align="center">🔥 Daily GitHub Contributions</h3>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakithyanshaw&theme=github_dark"
-    alt="GitHub Contribution Graph"
+    src="https://github.pumbas.net/api/contributions/Shakithyanshaw"
+    alt="Daily GitHub Contributions"
     width="100%"
   />
 </p>
